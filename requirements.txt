@@ -1,2 +1,4 @@
 streamlit
 streamlit_extras.stylable_container
+streamlit_image_coordinates
+PIL
