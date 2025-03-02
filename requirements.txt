@@ -1,2 +1,2 @@
 streamlit
-streamlit
+streamlit_extras.stylable_container
