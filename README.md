@@ -1,19 +1,33 @@
-# 🎈 Blank app template
+# 🎈 *THE* game.
 
-A simple Streamlit app template for you to modify!
+ghostpeps' game for you to play.
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ghostpeps.streamlit.app)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### How to run it on your machine (windows):
 
-### How to run it on your own machine
-
-1. Install the requirements
+1. Install the requirements:
 
    ```
    $ pip install -r requirements.txt
    ```
 
-2. Run the app
+2. Run the app:
 
    ```
    $ streamlit run THE-game.py
+   ```
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### How to run it on your machine (macOS):
+
+1. Install the requirements:
+
+   ```
+   pip install -r requirements.txt
+   ```
+
+2. Run the app:
+
+   ```
+   streamlit run THE-game.py
    ```
